@@ -1,4 +1,4 @@
-Docker image from Chatgpt for a laravel project prod setup 
+Docker image from Chatgpt for a laravel project prod setup .  This uses Laravel 12 with Mysql.  
 
 Browser
    ↓
